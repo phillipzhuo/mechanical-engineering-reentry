@@ -1,11 +1,6 @@
-# Month 1 — Mechanical Engineering Re-entry
-
-| Week | Focus Area             | Tasks                                                                 | Resources                                   | Progress | Notes |
-|------|------------------------|----------------------------------------------------|---------------------------------------------|---------|-------|
-| 1    | Core Mechanics         |   ⬜ Review statics fundamentals                   |               
-|      |                        |   ⬜ Solve 10 problems/day
-|      |                        |   ⬜ Watch 3 lecture videos 
-|      |                        |
-| 2    | Materials & Dynamics   |   ⬜ Study stress-strain & material properties⬜ Practice dynamics problems<br>⬜ Begin CAD sketches | Online notes / YouTube / SolidWorks        | ⬜ Not started ⬛ In progress ✅ Completed | |
-| 3    | Technical Problem-Solving | ⬜ Practice design calculations<br>⬜ Review thermodynamics basics<br>⬜ Join engineering forum discussion | Practice workbook / Coursera               | ⬜ Not started ⬛ In progress ✅ Completed | |
-| 4    | Defense Contractor Prep | ⬜ Identify target companies<br>⬜ Update resume & LinkedIn<br>⬜ Research security clearance process | LinkedIn / Company websites / Gov sites    | ⬜ Not started ⬛ In progress ✅ Completed | |
+Week	Focus Area	Task	Resources	Progress	Notes
+1	Prep work	Set up GitHub repo			
+    Prep work	Create roadmap			
+    Prep work	Create month 1 trackers			
+    Prep work	Identify & fetch required resources	SolidWorks, FE Exam prep book		
+2	Statics & Mechanics				
